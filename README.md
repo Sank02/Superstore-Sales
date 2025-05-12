@@ -5,8 +5,7 @@ This project analyzes sales performance using the Superstore Sales dataset (2015
 
 ## 📂 Files & Links Included
 
-🔗 **Tableau Dashboard:** [View Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiOGQ3OTFkM2EtNWY1YS00NjA1LThkNjAtOGJmZjVhMGFmZDc2IiwidCI6IjA1MzYzOThhLTNjZGQtNDJjNi1iOGJhLWNjMGUwMGQ3OTI3YyJ9](https://public.tableau.com/views/SuperstoreSales_17470482799680/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-))
+🔗 **Tableau Dashboard:** [View Dashboard]([https://public.tableau.com/views/SuperstoreSales_17470482799680/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 - `Superstore Sales.twb` → Tableau Dashboard
 - `train.csv` → Dataset

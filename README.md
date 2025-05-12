@@ -4,6 +4,8 @@
 This project analyzes sales performance using the Superstore Sales dataset (2015–2018) to identify key trends, profitable segments, customer behavior, and regional performance. A Tableau dashboard was created to visualize insights and help drive data-backed business decisions.
 
 ## 📂 Files Included
+Live Dashboard → https://public.tableau.com/views/SuperstoreSales_17470482799680/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 - `Superstore Sales.twb` → Tableau Dashboard
 - `train.csv` → Dataset
 - `Superstore Sales.ipynb` → Exploratory Data Analysis
